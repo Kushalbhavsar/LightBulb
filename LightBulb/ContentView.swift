@@ -67,7 +67,6 @@ extension ContentView {
         
         VStack(spacing: 0) {
             lamp.cord
-                .zIndex(1)
                             
             ZStack {
                 lamp.bulbShade

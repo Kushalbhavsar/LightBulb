@@ -35,10 +35,11 @@ struct Bulb {
             RadialGradient(
                 gradient: Gradient(colors:
                                     [control.bulbColor.opacity(0.9),
-                                     control.bulbColor.opacity(0.7),
+                                     control.bulbColor.opacity(0.9),
+                                     control.bulbColor.opacity(0.6),
                                      control.bulbColor.opacity(0.5),
-                                     control.bulbColor.opacity(0.3),
-                                     control.bulbColor.opacity(0.1),
+                                     control.bulbColor.opacity(0.4),
+                                     control.bulbColor.opacity(0.2),
                                      control.bulbColor.opacity(0.1),
                                     .clear]),
                         center: .center,
