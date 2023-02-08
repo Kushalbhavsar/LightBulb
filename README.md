@@ -2,7 +2,7 @@
 
 Reading in the dark? 🌑
 
-Just built a personal lightsaber for reading, an interactive bulb element 💡 that can shed light on the page and illuminate the text in #SwiftUI!  
+A personal lightsaber for reading, an interactive bulb element 💡 that can shed light on the page and illuminate the text in #SwiftUI!  
 
 The Ultimate reading companion. 📖
 
